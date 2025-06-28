@@ -1,4 +1,3 @@
-"# Amazon Product Review Sentiment Analysis" 
 # Amazon Product Review Sentiment Analysis
 
 This project performs sentiment analysis on Amazon product reviews using natural language processing and machine learning techniques. It classifies reviews as **positive** or **negative** based on text content.
