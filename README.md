@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Amazon Product Review Sentiment Analysis
 
 This project performs sentiment analysis on Amazon product reviews using natural language processing and machine learning techniques. It classifies reviews as **positive** or **negative** based on text content.
@@ -55,3 +56,34 @@ Author
 Suruchi Dhakal
 📧suruchidhakal22@gmail.com
 
+=======
+# 📰 Fake News Detection using NLP and Topic Modeling
+
+This project uses Natural Language Processing (NLP) to detect fake news articles using a combination of text preprocessing, topic modeling (LDA), and machine learning.
+
+## Features
+- Full preprocessing pipeline (cleaning, tokenization)
+- CountVectorizer for feature extraction
+- Latent Dirichlet Allocation (LDA) for topic modeling
+- Logistic Regression for classification
+- Model serialization using Joblib
+- Topic visualization
+
+##  Technologies Used
+- Python
+- Pandas
+- Scikit-learn
+- Gensim
+- Matplotlib
+- Joblib
+- Jupyter Notebook
+
+##  Dataset
+The dataset includes labeled fake and real news articles. 
+
+## 🚀 How to Run
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/suruchidhakal/fake_news_detection_nlp.git
+   cd fake_news_detection_nlp
+>>>>>>> 11f1d2f (Initial commit - add fake news detection NLP project)
